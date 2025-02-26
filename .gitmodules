@@ -1,0 +1,6 @@
+[submodule "esp32/lib/arduino-mcp2515"]
+	path = esp32/lib/arduino-mcp2515
+	url = git@github.com:autowp/arduino-mcp2515.git
+[submodule "esp32/lib/nimble-arduino"]
+	path = esp32/lib/nimble-arduino
+	url = git@github.com:h2zero/NimBLE-Arduino.git
